@@ -1,0 +1,19 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path: "https://selearnwords.herokuapp.com/"
+  bot-name: "LearnWordsSEMatyrBot"
+  bot-token: "5471736832:AAHu7B9XVVbAAIBSVkFPkauk0rBZ71k2Ohg"
+#telegram:
+#  api-url: "https://api.telegram.org/"
+#  webhook-path: "https://e949-95-32-23-9.eu.ngrok.io"
+#  bot-name: "LearnWordsSEMatyrBot"
+#  bot-token: "5471736832:AAHu7B9XVVbAAIBSVkFPkauk0rBZ71k2Ohg"
+#spring:
+#  redis:
+#    database: 0
+#    host: "ec2-34-206-6-79.compute-1.amazonaws.com"
+#    port: 12150
+#    password: "p5546f839ca3b104d012341d7f17e03f3f24925b3f2d5e48bcef3c90dd01da95d"
+#    ssl: true
+#server:
+#  port: 5001
