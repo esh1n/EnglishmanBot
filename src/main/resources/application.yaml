@@ -1,0 +1,5 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path: ${WEBHOOK_PATH}
+  bot-name: "LearnWordsSEMatyrBot"
+  bot-token: ${BOT_TOKEN}
